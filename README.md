@@ -3,7 +3,7 @@
 
 #### About
 
-Main page design of a audio streaming
+Main page design for an audio streaming service
 
 
 
@@ -13,14 +13,6 @@ Status: ![Website](https://img.shields.io/website?down_message=offline&label=sit
 
 link: https://carloscdf.github.io/sonner/ 
 
-
-
-
-
-<p align="center">Made by <a href="https://github.com/carloscdf">Carlos Nascimento</a></p>
-
-
-
 ---
 
 #### Screenshots
@@ -28,7 +20,6 @@ link: https://carloscdf.github.io/sonner/
 
 
 <img src="https://raw.githubusercontent.com/carloscdf/sonner/master/screenshots/01.png" alt="screenshot">
-
 
 
 
